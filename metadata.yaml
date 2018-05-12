@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43280'
     url: http://www.gutenberg.org/2009/agents/43280
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45428#Histoire-de-la-musique
 gutenberg_bookshelf: FR Musique
 gutenberg_issued: '2014-04-17'
 gutenberg_type: Text
